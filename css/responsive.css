@@ -1,0 +1,15 @@
+@@media screen & (max-width: 840px) {
+  header .header-mobile {
+    display: block;
+  }
+
+  .header-mobile .header-logo {
+    position: absolute;
+    left: 20px;
+  }
+
+  .list-desktop {
+    display: none;
+  }
+
+}
